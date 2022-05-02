@@ -1,1 +1,1 @@
-# smth-about-js
+# goit-markup-hw-02
